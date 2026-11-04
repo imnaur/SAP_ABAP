@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZC_05FLIGHT'
+@MappingRole: true
+define role ZC_05FLIGHT {
+  grant select on ZC_05FLIGHT
+  where INHERITING CONDITIONS FROM ENTITY ZR_05FLIGHT REPLACING { ROOT WITH _BaseEntity };
+}
