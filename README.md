@@ -5,6 +5,8 @@ Projects ABAP Cloud
 ![ABAP](https://img.shields.io/badge/language-ABAP-0FAAFF)
 ![Environment](https://img.shields.io/badge/ADT-Eclipse-2C2255)
 ![Course](https://img.shields.io/badge/course-S4D400-1F6FEB)
+![Status](https://img.shields.io/badge/status-%20done-brightgreen)
+
 
 My solutions to the exercises of the SAP course **S4D400**, written in
 **ABAP Development Tools (Eclipse)**. The repository is exported from the SAP system with
